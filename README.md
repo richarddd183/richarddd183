@@ -1,8 +1,10 @@
-# Hi, I'm Richard Guzman 👋
+# Hola, I'm Richard Guzman 👋
 
 **Computer Science graduate (Andrews University) · Founder of [automat3.ai](https://automat3.ai)**
 
-From Bolivia 🇧🇴 to Berrien Springs, MI — I build software that removes manual work. I focus on backend and automation: clean, tested code and multi-tenant SaaS that turns repetitive business processes into reliable pipelines.
+From Bolivia 🇧🇴 to the 🌎
+
+I build software that removes manual work. I focus on backend and automation: clean, tested code and multi-tenant SaaS that turns repetitive business processes into reliable pipelines.
 
 ---
 
@@ -44,4 +46,4 @@ From Bolivia 🇧🇴 to Berrien Springs, MI — I build software that removes m
 - 📧 Personal — richardguzmanquinteros@gmail.com
 - 🤝 Business — meet@automat3.ai
 
-*Open to new-grad software engineering and automation roles.*
+**OPEN TO NEW GRAD SOFTWARE ENGINEERING AND AUTOMATION ROLES**
